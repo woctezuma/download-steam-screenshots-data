@@ -15,8 +15,16 @@ Steam **banners** can be found in [`download-steam-banners-data`](https://github
 -   original images (460x215 resolution, with a few exceptions),
 -   resized images (128x128 resolution).
 
+## References:
+
+-   [Steam Store/Library Asset Specs][steam-asset-specs]
+-   [Steam Points Shop Item Specs][points-shop-specs]
+
 <!-- Definitions -->
 
 [download_steam_banners]: <https://colab.research.google.com/github/woctezuma/google-colab/blob/master/download_steam_banners.ipynb>
 
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
+
+[steam-asset-specs]: <https://partner.steamgames.com/doc/store/assets>
+[points-shop-specs]: <https://partner.steamgames.com/doc/marketing/pointsshopitems>
